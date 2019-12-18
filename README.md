@@ -58,16 +58,22 @@ In the following section, the various methods used to generate the decoded time 
 Despite the limited success of the approaches outlined throughout the course of this report, this research has been extremely interesting and helpful in developing my skillset related to machine learning and computational neuroscience. I will continue to Iteratively revise my approach by applying my findings in each successive implementation until I can achieve successful results. After reflection, it is clear that the following points should be considered in subsequent implementations: 
 
 -	Do the models generated in each individual image set have the potential to generalize to other image sets?
+
     o	In order to have access to more data, each series of image set datasets were combined into a single series of aggregated       datasets. If the models don’t generalize outside of their image set, this is a bad idea.
 
 -	Is the relationship between classes not separable by the learning algorithms (SVM, RF, NN) being used? 
+
     o	Perhaps the learning algorithms being used are not sufficient for this classification problem. In this event, it would         helpful to try other variations of classification algorithms such as K-Nearest Neighbors which leverages a geometric           approach to classification. 
 
 -	Are the abundance of features introducing too much noise into the models? 
+
     o	It may be helpful to use feature selection and feature extraction methods in order to reduce the number of features in         our data. This will reduce noise, computation time and lessen the effect of the cure of dimensionality. 
+    
     o	Note: This option has already been partially explored and applied to some of the approaches above.
 
 -	Is there access to additional data or similar models elsewhere? 
+
     o	If the current sample of data does not contain enough information for a learning algorithm to deduce a pattern, no             amount of preprocessing, feature selection or model optimization will be able to produce a well performing model.
+    
     o	The presence of other similar models could be a source of transfer learning for our model
 
