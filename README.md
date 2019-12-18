@@ -1,3 +1,3 @@
 # MEG Data Classification
-# Introduction
+## Introduction
 
