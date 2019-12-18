@@ -67,3 +67,5 @@ Despite the limited success of the approaches outlined throughout the course of 
 
 ## Exhibits
 ### Exhibit 1: Support Vector Machin eHyper Parameters
+<img width="700" alt="Screen Shot 2019-12-18 at 2 31 18 AM" src="https://user-images.githubusercontent.com/34798787/71065136-96358400-213e-11ea-9717-b876be19e825.png">
+
