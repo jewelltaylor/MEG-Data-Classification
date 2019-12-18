@@ -9,11 +9,5 @@ The MEG data initially consisted of a series of 24 folders containing distinct t
 ### Class Distribution
 In the context of this experiment, the data corresponding to each of the twelve image sets is imbalanced to varying degrees. Some instances have a large proportion of observations with correct labels and other instances have a large proportion of observations with incorrect labels. Each of the image sets has thirty or less observations. A table outlining in the distribution of the observations in each image set is below. 
 
-<img width="621"  alt="Screen Shot 2019-12-18 at 1 01 38 AM" src="https://user-images.githubusercontent.com/34798787/71060656-10144000-2134-11ea-832d-41d738b9f847.png">
-<style type="text/css">
-img
-{
- text-align:center;
- display:block;
-}
-</style>
+<center><img width="621"  alt="Screen Shot 2019-12-18 at 1 01 38 AM" src="https://user-images.githubusercontent.com/34798787/71060656-10144000-2134-11ea-832d-41d738b9f847.png"></center>
+
