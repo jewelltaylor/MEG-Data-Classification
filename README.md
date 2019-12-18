@@ -72,6 +72,18 @@ Despite the limited success of the approaches outlined throughout the course of 
 **Exhibit 2: Randomm Forest Classifier Hyper Parameters**
 <img width="700" alt="Screen Shot 2019-12-18 at 2 38 43 AM" src="https://user-images.githubusercontent.com/34798787/71065633-9c783000-213f-11ea-8e74-87f942439202.png">
 
-**Exhibit 3: Neural Network Architecture
+**Exhibit 3: Neural Network Architecture**
 <img width="700" alt="Screen Shot 2019-12-18 at 2 35 58 AM" src="https://user-images.githubusercontent.com/34798787/71065412-2ecc0400-213f-11ea-8621-900e441ee9fa.png">
+
+## Resources
+Grootswagers, T., Wardle, S. G., & Carlson, T. A. (2017). Decoding Dynamic Brain Patterns from Evoked Responses: A Tutorial on Multivariate Pattern Analysis Applied to Time Series Neuroimaging Data. Journal of Cognitive Neuroscience, 29(4), 677–697. doi: 10.1162/jocn_a_01068
+
+RBF SVM parameters. (n.d.). Retrieved from https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+
+Boyle, T. (2019, February 4). Dealing with Imbalanced Data. Retrieved from https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+
+Flovik, V. (2019, September 19). How to use machine learning for anomaly detection and condition monitoring. Retrieved from https://towardsdatascience.com/how-to-use-machine-learning-for-anomaly-detection-and-condition-monitoring-6742f82900d7.
+
+Japkowicz, N. (2000). Learning from imbalanced data sets: A Comparison of Various Strategies . Meno Park, CA: AAAI Press.
+
 
