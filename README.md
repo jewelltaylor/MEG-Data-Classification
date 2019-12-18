@@ -1,2 +1,3 @@
-# MEG-Data-Classification
-Introduction
+# MEG Data Classification
+# Introduction
+
