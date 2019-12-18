@@ -37,3 +37,7 @@ In the following section, the various methods used to generate the decoded time 
 **Approach 4**
 
 <img width="700" alt="Screen Shot 2019-12-18 at 2 03 35 AM" src="https://user-images.githubusercontent.com/34798787/71063423-a6e3fb00-213a-11ea-8700-903abde61db0.png">
+
+**Approach 5**
+
+<img width="700" alt="Screen Shot 2019-12-18 at 2 07 18 AM" src="https://user-images.githubusercontent.com/34798787/71063667-2f629b80-213b-11ea-95d6-f486bbaeff36.png">
