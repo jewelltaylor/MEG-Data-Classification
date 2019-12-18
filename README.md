@@ -51,3 +51,6 @@ In the following section, the various methods used to generate the decoded time 
 <img width="700" alt="Screen Shot 2019-12-18 at 2 13 59 AM" src="https://user-images.githubusercontent.com/34798787/71064106-40f87300-213c-11ea-87d9-5a30606e2fb2.png">
 
 **Approach 8** 
+
+
+<img width="700" alt="Screen Shot 2019-12-18 at 2 20 31 AM" src="https://user-images.githubusercontent.com/34798787/71064403-03481a00-213d-11ea-8e48-d43eecc7350e.png">
