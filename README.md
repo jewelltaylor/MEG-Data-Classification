@@ -11,3 +11,5 @@ In the context of this experiment, the data corresponding to each of the twelve 
 
 <img width="621" alt="Screen Shot 2019-12-18 at 1 01 38 AM" src="https://user-images.githubusercontent.com/34798787/71060656-10144000-2134-11ea-832d-41d738b9f847.png">
 
+In earlier iterations of approaches, a decoded time series was generated for each image set. Accordingly, twelve decoded time series were created in total. There were several challenges to these approaches that stemmed from the small amount of observation in each image set and the sometimes highly unbalanced nature of the data. As a result, in later iterations of approaches, observations from each image set were combined into an aggregate image set. The aggregate image set contains 88 correct observations and 238 incorrect observations. In these cases, a single decoded time series is generated because the observations corresponding to each image set are present in the aggregate dataset. For convenience, the two sets of aforementioned approaches will be referred to as Image Set Approaches and Aggregate Approaches, respectively. 
+
