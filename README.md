@@ -21,6 +21,6 @@ The error measure used to evaluate the performance of a model at each point in t
 
 ### Approaches
 In the following section, the various methods used to generate the decoded time series will be discussed and evaluated. In accordance to the above distinction, the approaches section will contain two main sections of approaches: Image Set Approaches and Aggregate Approaches. As mentioned previously, Image Set Approaches generate a set of twelve decoded time series whereas Aggregate Approaches generate a single decoded time series. For each approach in the following section, this information will be outlined: Decoded Time Series, Model, Methods and  Remarks. In the case of Image Set Approaches, only a single decoded time series will displayed for the sake of brevity. 
-
+**Approach 1**
 <img width="964" alt="Screen Shot 2019-12-18 at 1 50 34 AM" src="https://user-images.githubusercontent.com/34798787/71062566-d42fa980-2138-11ea-871f-1a0684d11096.png">
 
