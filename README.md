@@ -70,7 +70,7 @@ Despite the limited success of the approaches outlined throughout the course of 
 <img width="700" alt="Screen Shot 2019-12-18 at 2 38 09 AM" src="https://user-images.githubusercontent.com/34798787/71065557-72bf0900-213f-11ea-8202-970ee5254f8d.png">
 
 **Exhibit 2: Randomm Forest Classifier Hyper Parameters**
-<img width="700" alt="Screen Shot 2019-12-18 at 2 33 46 AM" src="https://user-images.githubusercontent.com/34798787/71065243-d98ff280-213e-11ea-9880-f5d06df3c3a8.png">
+<img width="700" alt="Screen Shot 2019-12-18 at 2 38 43 AM" src="https://user-images.githubusercontent.com/34798787/71065633-9c783000-213f-11ea-8e74-87f942439202.png">
 
 **Exhibit 3: Neural Network Architecture
 <img width="700" alt="Screen Shot 2019-12-18 at 2 35 58 AM" src="https://user-images.githubusercontent.com/34798787/71065412-2ecc0400-213f-11ea-8621-900e441ee9fa.png">
