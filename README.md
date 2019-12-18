@@ -24,10 +24,13 @@ In the following section, the various methods used to generate the decoded time 
 
 **Approach 1**
 
-<img width="600" alt="Screen Shot 2019-12-18 at 1 50 34 AM" src="https://user-images.githubusercontent.com/34798787/71062566-d42fa980-2138-11ea-871f-1a0684d11096.png">
+<img width="700" alt="Screen Shot 2019-12-18 at 1 50 34 AM" src="https://user-images.githubusercontent.com/34798787/71062566-d42fa980-2138-11ea-871f-1a0684d11096.png">
 
 **Approach 2** 
 
-<img width="600" alt="Screen Shot 2019-12-18 at 1 56 27 AM" src="https://user-images.githubusercontent.com/34798787/71062915-a9922080-2139-11ea-8222-878cd6de48b3.png">
+<img width="700" alt="Screen Shot 2019-12-18 at 1 56 27 AM" src="https://user-images.githubusercontent.com/34798787/71062915-a9922080-2139-11ea-8222-878cd6de48b3.png">
+
+**Approach 2**
+<img width="700" alt="Screen Shot 2019-12-18 at 2 00 44 AM" src="https://user-images.githubusercontent.com/34798787/71063206-448afa80-213a-11ea-8c09-165fa8b006d8.png">
 
 
