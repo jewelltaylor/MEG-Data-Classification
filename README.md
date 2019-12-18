@@ -69,7 +69,9 @@ Despite the limited success of the approaches outlined throughout the course of 
 **Exhibit 1: Support Vector Machine Hyper Parameters**
 <img width="700" alt="Screen Shot 2019-12-18 at 2 31 18 AM" src="https://user-images.githubusercontent.com/34798787/71065136-96358400-213e-11ea-9717-b876be19e825.png">
 
-**Exhibit 2: Randomm Forest Classifier Hyper Parameters
+**Exhibit 2: Randomm Forest Classifier Hyper Parameters**
 <img width="700" alt="Screen Shot 2019-12-18 at 2 33 46 AM" src="https://user-images.githubusercontent.com/34798787/71065243-d98ff280-213e-11ea-9880-f5d06df3c3a8.png">
 
+**Exhibit 3: Neural Network Architecture
+<img width="700" alt="Screen Shot 2019-12-18 at 2 35 58 AM" src="https://user-images.githubusercontent.com/34798787/71065412-2ecc0400-213f-11ea-8621-900e441ee9fa.png">
 
